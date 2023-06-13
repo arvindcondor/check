@@ -1,0 +1,19 @@
+Django == 4.0
+djangorestframework == 3.13
+djangorestframework-simplejwt == 5.2.2
+distlib == 0.3.6
+django-cors-headers == 3.13.0
+django-extensions == 3.2.1
+django-filter == 22.1
+django-rest-framework == 0.1.0
+django-seed == 0.3.1
+python-environ == 0.4.54
+Pillow == 9.4.0
+python-dateutil == 2.8.2
+pyotp
+pylint-django
+psycopg2-binary==2.9.5
+python-dotenv
+six
+drf-yasg==1.21.5
+django-extensions
